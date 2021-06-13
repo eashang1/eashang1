@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a secret magic trick!
 - 🌱 I’m learning how it feels to be hard stuck on Codeforces:/ 
-- 👯 I’m looking to collaborate on... Kaggle contest anyone?
+- 👯 I’m looking to collaborate on... project or Kaggle contest anyone?
 - 😄 I like to read, travel, watch shows, and cook in my free time
 - 💬 Ask me about the cosmere or cool math problems
 - ⚡ Fun fact: I've got a [blog](https://artofproblemsolving.com/community/c476370) on AoPS
