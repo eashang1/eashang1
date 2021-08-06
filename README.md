@@ -3,7 +3,7 @@
 #### I'm Eashan, a junior at Georgia Tech with a passion for mathematical problem-solving
 
 - 🔭 I’m currently working on a secret magic trick!
-- 🌱 I’m learning how it feels to be hard stuck on Codeforces:/ 
+- 🌱 I’m learning how it feels to be hard stuck on CF
 - 👯 I’m looking to collaborate on... project or Kaggle contest anyone?
 - 😄 I like to read, travel, watch shows, and cook in my free time
 - 💬 Ask me about the cosmere or cool math problems
