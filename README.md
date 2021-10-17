@@ -2,10 +2,10 @@
 
 #### I'm Eashan, a junior at Georgia Tech with a passion for mathematical problem-solving
 
-- 🔭 I’m currently working on a secret magic trick!
-- 🌱 I’m learning how it feels to be hard stuck on CF
-- 👯 I’m looking to collaborate on... project or Kaggle contest anyone?
-- 😄 I like to read, travel, watch shows, and cook in my free time
+- 🔭 I’m currently working on making some clever magic tricks
+- 🌱 I enjoy cooking, travelling, and watching shows
+- 😄 I'm an avid reader of fantasy fiction
+- 👯 DM me if you're interested in collaborating
 - 💬 Ask me about the cosmere or cool math problems
 - ⚡ Fun fact: I've got a [blog](https://artofproblemsolving.com/community/c476370) on AoPS
 
