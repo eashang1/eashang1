@@ -2,7 +2,7 @@
 
 #### I'm Eashan, a junior at Georgia Tech with a passion for mathematical problem-solving
 
-- 🔭 I’m currently working on making some clever magic tricks
+- 🔭 I’m currently working on card-magic math research
 - 🌱 I enjoy cooking, travelling, and watching shows
 - 😄 I'm an avid reader of fantasy fiction
 - 👯 DM me if you're interested in collaborating
